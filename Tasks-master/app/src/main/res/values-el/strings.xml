@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Καθήκοντα</string>
+    <string name="task_progress">%d/%d tarefas concluídas</string>
+    <string name="subtask_progress">%d/%d subtarefas concluídas</string>
+    <string name="task_completed">Tarefa concluída</string>
+    <string name="add_task">Adicionar tarefa</string>
+    <string name="enter_title">Digite o título</string>
+    <string name="important_task">Tarefa importante</string>
+    <string name="edit_delete_task">Editar/Excluir Tarefa</string>
+    <string name="create_task">Criar tarefa</string>
+    <!-- Títulos de preferência -->
+    <string name="messages_header">Mensagens</string>
+    <string name="sync_header">Sincronizar</string>
+
+    <!-- Preferências de mensagens -->
+    <string name="signature_title">Sua assinatura</string>
+    <string name="reply_title">Ação de resposta padrão</string>
+
+    <!-- Preferências de sincronização -->
+    <string name="sync_title">Sincronize e-mails periodicamente</string>
+    <string name="attachment_title">Baixar anexos recebidos</string>
+    <string name="attachment_summary_on">Baixar automaticamente anexos para e-mails recebidos
+    </string>
+    <string name="attachment_summary_off">Faça download de anexos apenas quando solicitado manualmente</string>
+
+
+    <string name="feedback_text">Envie feedback, se o aplicativo continuar travando \'Limpar dados do aplicativo\' ou envie um e-mail</string>
+    <string name="rating_text">Adora este aplicativo? Deixe-nos saber na Google Play Store como podemos torná-lo ainda melhor</string>
+    <string name="more_app_text">Confira outros aplicativos</string>
+    <string name="share_text">Compartilhe o aplicativo com seus amigos e familiares</string>
+    <string name="developer">Desenvolvedor</string>
+    <string name="developer_name">Kaushal Vasava</string>
+    <string name="about">Sobre</string>
+    <string name="current_version">Versão atual</string>
+    <string name="more">Mais</string>
+    <string name="contact_support">Entre em contato com o suporte</string>
+    <string name="rating">Avalie o aplicativo</string>
+    <string name="more_apps">Mais aplicativos</string>
+    <string name="share_app">Compartilhar aplicativo</string>
+    <string name="delete_completed_task">Excluir todas as tarefas concluídas</string>
+    <string name="hide_completed_task">Ocultar tarefas concluídas</string>
+    <string name="settings">Configurações</string>
+    <string name="sorting_option">Opção de classificação</string>
+    <string name="sort_by_name">Classificar por nome</string>
+    <string name="sort_by_creation_date">Classificar por data de criação</string>
+    <string name="search">Pesquisar</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="delete">Excluir</string>
+    <string name="add_date_time">Adicionar data/hora</string>
+    <string name="reminder">Lembrete</string>
+    <string name="add_task_by_speak">Adicionar tarefa falando</string>
+    <string name="save">Salvar</string>
+    <string name="overdue">Atrasado</string>
+
+    <string name="mark_as_completed">Marcar como concluído</string>
+    <string name="new_task">Nova tarefa</string>
+    <string name="create_new_sub_task">Clique aqui para adicionar nova subtarefa</string>
+    <string name="create_new_task">Clique aqui para adicionar nova tarefa</string>
+    <string name="task_deleted">Tarefa excluída</string>
+    <string name="undo">UNDO</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm_deletion">Confirmar exclusão</string>
+    <string name="delete_all_task">Deseja excluir todas as tarefas?</string>
+    <string name="notify_delete">As tarefas foram excluídas com sucesso</string>
+    <string name="please_select_task">Selecione uma tarefa</string>
+    <string name="search_task">Tarefa de pesquisa</string>
+    <string name="speech_not_support">Seu dispositivo não é compatível com entrada de fala</string>
+    <string name="search_subtask">Pesquisar subtarefa</string>
+    <string name="share">Compartilhar</string>
+    <string name="delete_task">Deseja excluir?</string>
+    <string name="empty_task">Tarefa está vazia</string>
+    <string name="set_time">DEFINIR HORA</string>
+    <string name="cancel_reminder">Lembrete cancelado!</string>
+    <string name="progress_setting">Mostrar o progresso da tarefa individual</string>
+    <string name="reminder_setting">Mostrar lembrete de tarefa individual</string>
+    <string name="font_size">Tamanho da fonte</string>
+    <string name="enable">Ativar</string>
+    <string name="disable">Desativar</string>
+
+    <string name="subtask_of_task">Mostrar subtarefas de tarefas individuais</string>
+    <string name="grid_view">Visualização em grade</string>
+    <string name="list_view">Visualização de lista</string>
+    <string name="theme">Θέμα</string>
+    <string name="pm_format">μ.μ.</string>
+    <string name="language">Γλώσσα</string>
+    <string name="copy_text">αντίγραφο</string>
+    <string name="something_went_wrong">κάτι πήγε στραβά!</string>
+    <string name="share_by">Κοινή χρήση από</string>
+    <string name="text_copied">%s αντιγράφηκε</string>
+    <string name="write_suggestions">Γράψτε τις προτάσεις ή τα προβλήματά σας</string>
+
+    <string name="very_small">Πολύ μικρό</string>
+    <string name="medium_small">Μεσαίο Μικρό</string>
+    <string name="small">Μικρό</string>
+    <string name="medium">Μεσαίο</string>
+    <string name="large">Μεγάλο</string>
+    <string name="huge">Τεράστιο</string>
+    <string name="follow_system">Ακολουθήστε το σύστημα</string>
+    <string name="light">Φως</string>
+    <string name="dark">Σκούρο</string>
+    <string name="permission_denied">Απορρίφθηκε η άδεια</string>
+    <string name="open_settings">Άνοιγμα ρυθμίσεων</string>
+    <string name="no_application_found">Η εφαρμογή δεν βρέθηκε</string>
+    <string name="user_cancelled_the_operation">Ο χρήστης ακύρωσε τη λειτουργία</string>
+    <string name="downloading_start">Έναρξη λήψης</string>
+    <string name="update_failed">Η ενημέρωση απέτυχε</string>
+    <string name="restart">Επανεκκίνηση</string>
+    <string name="new_app_ready">Η νέα εφαρμογή είναι έτοιμη</string>
+    <string name="task_selected" formatted="false">Επιλέχτηκε %d/%d</string>
+    <string name="or">Ή</string>
+    <string name="select_task">Επιλογή εργασίας</string>
+    <string name="active">Ενεργό</string>
+    <string name="done">Τέλος</string>
+    <string name="home">Αρχική σελίδα</string>
+    <string name="personal">Προσωπικό</string>
+    <string name="school">Σχολείο</string>
+    <string name="work">Εργασία</string>
+    <string name="other">Άλλο</string>
+    <string name="back">Πίσω</string>
+    <string name="feedback_from_app">Σχόλια από %s, %s</string>
+    <string name="add_task_or_subtask">Προσθήκη νέας εργασίας ή δευτερεύουσας εργασίας</string>
+
+    <string name="name">Όνομα ⬇</string>
+    <string name="name_desc">Όνομα ⬆</string>
+    <string name="date" >Ημερομηνία ⬇</string>
+    <string name="date_desc">Ημερομηνία ⬆</string>
+    <string name="category">Κατηγορία ⬇</string>
+    <string name="category_desc">Κατηγορία ⬆</string>
+    <string name="start_date">Ημερομηνία έναρξης</string>
+    <string name="end_date">Ημερομηνία λήξης</string>
+    <string name="select_project_end_date">Επιλέξτε την ημερομηνία λήξης του έργου</string>
+    <string name="select_project_start_date">Επιλογή ημερομηνίας έναρξης έργου</string>
+    <string name="no_notification">Δεν υπάρχουν ακόμη ειδοποιήσεις</string>
+    <string name="notifications">Ειδοποιήσεις</string>
+    <string name="sort_by_old_to_new">Παλιό σε νέο</string>
+    <string name="pending">Εργασίες σε εκκρεμότητα <b>%d</b></string>
+    <string name="completed">Ολοκληρωμένες εργασίες <b>%d</b></string>
+
+    <string name="overview">Επισκόπηση</string>
+    <string name="good_morning">Γεια σου αγαπητέ</string>
+    <string name="notification_daily_desc">Οι εργασίες σας εκκρεμούν, πρέπει να τις ολοκληρώσετε γρήγορα</string>
+    <string name="show_voice_to_add_task_option">Εμφάνιση επιλογής φωνής για προσθήκη εργασίας</string>
+    <string name="task_not_completed_yet">Η εργασία δεν έχει ολοκληρωθεί ακόμα</string>
+    <string name="general">Γενικά</string>
+    <string name="category_txt">Κατηγορία</string>
+    <string name="paste">Επικόλληση</string>
+    <string name="delete_all_notifications">Διαγραφή όλων των ειδοποιήσεων</string>
+    <string name="confirm_notification_msg">Θέλετε να διαγράψετε όλες τις ειδοποιήσεις;</string>
+    <string name="sort_expand_collapse_button">Κουμπί επέκτασης/σύμπτυξης ταξινόμησης</string>
+    <string name="layout_view_change_button">Κουμπί αλλαγής προβολής διάταξης</string>
+    <string name="show_copy">Εμφάνιση εικονιδίου αντιγραφής σε μεμονωμένη εργασία</string>
+    <string name="visit_github">Επισκεφτείτε το GitHub</string>
+    <string name="privacy_policy">Πολιτική απορρήτου</string>
+    <string name="prompt_info_title">Έλεγχος ταυτότητας εφαρμογής Task</string>
+    <string name="prompt_info_subtitle">Σύνδεση με έλεγχο ταυτότητας με δακτυλικό αποτύπωμα</string>
+    <string name="app_lock">Κλείδωμα εφαρμογής</string>
+    <string name="restore_data">Επαναφορά δεδομένων</string>
+    <string name="backup_data">Δεδομένα αντιγράφων ασφαλείας</string>
+    <string name="security_and_data">Ασφάλεια και δεδομένα</string>
+    <string name="follow_instagram">Ακολουθήστε με στο Instagram</string>
+    <string name="donate">Υποστηρίξτε με</string>
+    <string name="donate_me_desc">Αν σας αρέσει η εφαρμογή μου και θέλετε να με υποστηρίξετε στη βελτίωση αυτής της εφαρμογής, παρακαλώ δωρίστε κάποια χρήματα</string>
+</resources>

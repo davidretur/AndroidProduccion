@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas</string>
+    <string name="task_progress">%d/%d tugas selesai</string>
+    <string name="subtask_progress">%d/%d subtugas selesai</string>
+    <string name="task_completed">Tugas selesai</string>
+    <string name="add_task">Tambahkan tugas</string>
+    <string name="enter_title">Masukkan judul</string>
+    <string name="important_task">Tugas penting</string>
+    <string name="edit_delete_task">Edit/Hapus Tugas</string>
+    <string name="create_task">Buat Tugas</string>
+    <!-- Judul Preferensi -->
+    <string name="messages_header">Pesan</string>
+    <string name="sync_header">Sinkronkan</string>
+
+    <!-- Preferensi Pesan -->
+    <string name="signature_title">Tanda tangan Anda</string>
+    <string name="reply_title">Tindakan balasan default</string>
+
+    <!-- Preferensi Sinkronisasi -->
+    <string name="sync_title">Sinkronkan email secara berkala</string>
+    <string name="attachment_title">Unduh lampiran yang masuk</string>
+    <string name="attachment_summary_on">Otomatis mengunduh lampiran untuk email masuk
+    </string>
+    <string name="attachment_summary_off">Hanya unduh lampiran jika diminta secara manual</string>
+
+
+    <string name="feedback_text">Kirim umpan balik, Jika aplikasi terus mogok \'Hapus data aplikasi\' atau kirimkan Email</string>
+    <string name="rating_text">Suka aplikasi ini? Beri tahu kami di Google Play Store bagaimana kami dapat membuatnya lebih baik</string>
+    <string name="more_app_text">Lihat aplikasi lain</string>
+    <string name="share_text">Berbagi aplikasi dengan teman dan keluarga Anda</string>
+    <string name="developer">Pengembang</string>
+    <string name="developer_name">Kaushal Vasava</string>
+    <string name="about">Tentang</string>
+    <string name="current_version">Versi saat ini</string>
+    <string name="more">Lainnya</string>
+    <string name="contact_support">Hubungi Dukungan</string>
+    <string name="rating">Beri nilai aplikasi</string>
+    <string name="more_apps">Aplikasi Lainnya</string>
+    <string name="share_app">Berbagi Aplikasi</string>
+    <string name="delete_completed_task">Hapus semua tugas yang sudah selesai</string>
+    <string name="hide_completed_task">Sembunyikan tugas yang sudah selesai</string>
+    <string name="settings">Setelan</string>
+    <string name="sorting_option">Opsi Penyortiran</string>
+    <string name="sort_by_name">Urutkan berdasarkan Nama</string>
+    <string name="sort_by_creation_date">Urutkan berdasarkan tanggal Pembuatan</string>
+    <string name="search">Telusuri</string>
+    <string name="select_all">Pilih semua</string>
+    <string name="delete">Hapus</string>
+    <string name="add_date_time">Tambahkan tanggal/waktu</string>
+    <string name="reminder">Pengingat</string>
+    <string name="add_task_by_speak">Tambahkan tugas dengan berbicara</string>
+    <string name="save">Simpan</string>
+    <string name="overdue">Terlambat</string>
+
+    <string name="mark_as_completed">Tandai sebagai selesai</string>
+    <string name="new_task">Tugas baru</string>
+    <string name="create_new_sub_task">Klik di sini untuk menambahkan sub-tugas baru</string>
+    <string name="create_new_task">Klik di sini untuk menambahkan tugas baru</string>
+    <string name="task_deleted">Tugas dihapus</string>
+    <string name="undo">UNDO</string>
+    <string name="cancel">Batal</string>
+    <string name="confirm_deletion">Konfirmasi penghapusan</string>
+    <string name="delete_all_task">Apakah Anda ingin menghapus semua tugas?</string>
+    <string name="notify_delete">Tugas berhasil dihapus</string>
+    <string name="please_select_task">Silakan pilih tugas</string>
+    <string name="search_task">Tugas Pencarian</string>
+    <string name="speech_not_support">Perangkat Anda tidak didukung untuk input ucapan</string>
+    <string name="search_subtask">Cari subtugas</string>
+    <string name="share">Bagikan</string>
+    <string name="delete_task">Apakah Anda ingin menghapus?</string>
+    <string name="empty_task">Tugas Kosong</string>
+    <string name="set_time">SET WAKTU</string>
+    <string name="cancel_reminder">Pengingat dibatalkan!</string>
+    <string name="progress_setting">Tampilkan kemajuan tugas dari tugas individu</string>
+    <string name="reminder_setting">Tampilkan pengingat tugas individu</string>
+    <string name="font_size">Ukuran font</string>
+    <string name="enable">Aktifkan</string>
+    <string name="disable">Nonaktifkan</string>
+
+    <string name="subtask_of_task">Tampilkan subtugas dari tugas individu</string>
+    <string name="grid_view">Tampilan Kotak</string>
+    <string name="list_view">Tampilan Daftar</string>
+    <string name="theme">Tema</string>
+    <string name="pm_format">pm</string>
+    <string name="language">Bahasa</string>
+    <string name="copy_text">salinan</string>
+    <string name="something_went_wrong">ada yang tidak beres!</string>
+    <string name="share_by">Berbagi dengan</string>
+    <string name="text_copied">%s disalin</string>
+    <string name="write_suggestions">Silakan tulis saran atau masalah Anda</string>
+
+    <string name="very_small">Sangat Kecil</string>
+    <string name="medium_small">Sedang Kecil</string>
+    <string name="small">Kecil</string>
+    <string name="medium">Sedang</string>
+    <string name="large">Besar</string>
+    <string name="huge">Besar</string>
+    <string name="follow_system">Ikuti Sistem</string>
+    <string name="light">Cahaya</string>
+    <string name="dark">Gelap</string>
+    <string name="permission_denied">Izin ditolak</string>
+    <string name="open_settings">Buka setelan</string>
+    <string name="no_application_found">Aplikasi tidak ditemukan</string>
+    <string name="user_cancelled_the_operation">Pengguna membatalkan operasi</string>
+    <string name="downloading_start">Pengunduhan dimulai</string>
+    <string name="update_failed">Pembaruan gagal</string>
+    <string name="restart">Mulai ulang</string>
+    <string name="new_app_ready">Aplikasi baru sudah siap</string>
+    <string name="task_selected" formatted="false">%d/%d dipilih</string>
+    <string name="or">OU</string>
+    <string name="select_task">Sélectionner une tâche</string>
+    <string name="active">Actif</string>
+    <string name="done">Terminé</string>
+    <string name="home">Accueil</string>
+    <string name="personal">Personnel</string>
+    <string name="school">École</string>
+    <string name="work">Travailler</string>
+    <string name="other">Autre</string>
+    <string name="back">Retour</string>
+    <string name="feedback_from_app">Commentaires de %s, %s</string>
+    <string name="add_task_or_subtask">Tambahkan tugas atau subtugas baru</string>
+
+    <string name="name">Nama ⬇</string>
+    <string name="name_desc">Nama ⬆</string>
+    <string name="date">Tanggal ⬇</string>
+    <string name="date_desc">Tanggal ⬆</string>
+    <string name="category">Kategori ⬇</string>
+    <string name="category_desc">Kategori ⬆</string>
+    <string name="start_date">Tanggal mulai</string>
+    <string name="end_date">Tanggal akhir</string>
+    <string name="select_project_end_date">Pilih tanggal akhir proyek</string>
+    <string name="select_project_start_date">Pilih tanggal mulai proyek</string>
+    <string name="no_notification">Belum ada notifikasi</string>
+    <string name="notifications">Pemberitahuan</string>
+    <string name="sort_by_old_to_new">Lama ke baru</string>
+    <string name="pending">Tugas yang tertunda <b>%d</b></string>
+    <string name="completed">Menyelesaikan tugas <b>%d</b></string>
+
+    <string name="overview">Ikhtisar</string>
+    <string name="good_morning">Halo sayang</string>
+    <string name="notification_daily_desc">Tugas Anda tertunda, Anda harus menyelesaikannya dengan cepat</string>
+    <string name="show_voice_to_add_task_option">Tampilkan suara untuk menambahkan opsi tugas</string>
+    <string name="task_not_completed_yet">Tugas belum selesai</string>
+    <string name="general">Umum</string>
+    <string name="category_txt">Kategori</string>
+    <string name="paste">Tempel</string>
+    <string name="delete_all_notifications">Hapus semua notifikasi</string>
+    <string name="confirm_notification_msg">Apakah Anda ingin menghapus semua notifikasi?</string>
+    <string name="sort_expand_collapse_button">Tombol Urutkan perluas/ciutkan</string>
+    <string name="layout_view_change_button">Tombol perubahan tampilan tata letak</string>
+    <string name="show_copy">Tampilkan ikon salin pada tugas individual</string>
+    <string name="visit_github">Kunjungi GitHub</string>
+    <string name="privacy_policy">Kebijakan privasi</string>
+    <string name="prompt_info_title">Otentikasi Aplikasi Tugas</string>
+    <string name="prompt_info_subtitle">Masuk dengan autentikasi sidik jari</string>
+    <string name="app_lock">Kunci aplikasi</string>
+    <string name="restore_data">Pulihkan Data</string>
+    <string name="backup_data">Data Cadangan</string>
+    <string name="security_and_data">Keamanan dan Data</string>
+    <string name="follow_instagram">Ikuti saya di Instagram</string>
+    <string name="donate">Dukung saya</string>
+    <string name="donate_me_desc">Jika Anda menyukai aplikasi saya dan ingin mendukung saya dalam meningkatkan aplikasi ini, silakan sumbangkan sejumlah uang</string>
+</resources>

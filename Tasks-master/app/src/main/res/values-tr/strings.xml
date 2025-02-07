@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Görevler</string>
+    <string name="task_progress">%d/%d görev tamamlandı</string>
+    <string name="subtask_progress">%d/%d alt görev tamamlandı</string>
+    <string name="task_completed">Görev tamamlandı</string>
+    <string name="add_task">Görev ekle</string>
+    <string name="enter_title">Başlık girin</string>
+    <string name="important_task">Önemli görev</string>
+    <string name="edit_delete_task">Görevi Düzenle/Sil</string>
+    <string name="create_task">Görev Oluştur</string>
+    <!-- Tercih Başlıkları -->
+    <string name="messages_header">Mesajlar</string>
+    <string name="sync_header">Senkronizasyon</string>
+
+    <!-- Mesaj Tercihleri ​​-->
+    <string name="signature_title">İmzanız</string>
+    <string name="reply_title">Varsayılan yanıt işlemi</string>
+
+    <!-- Senkronizasyon Tercihleri ​​-->
+    <string name="sync_title">E-postayı düzenli aralıklarla senkronize edin</string>
+    <string name="attachment_title">Gelen ekleri indirin</string>
+    <string name="attachment_summary_on">Gelen e-postalar için ekleri otomatik olarak indir
+    </string>
+    <string name="attachment_summary_off">Ekleri yalnızca manuel olarak istendiğinde indirin</string>
+
+
+    <string name="feedback_text">Geri bildirim gönder, Uygulama sürekli olarak \'Uygulama verilerini temizle\' hatasını veriyorsa veya bir E-posta gönderiyorsa</string>
+    <string name="rating_text">Bu uygulamayı sevdiniz mi? Google Play Store\'da bunu nasıl daha iyi hale getirebileceğimizi bize bildirin</string>
+    <string name="more_app_text">Diğer uygulamalara göz atın</string>
+    <string name="share_text">Uygulamayı arkadaşlarınız ve ailenizle paylaşın</string>
+    <string name="developer">Geliştirici</string>
+    <string name="developer_name">Kaushal Vasava</string>
+    <string name="about">Hakkında</string>
+    <string name="current_version">Geçerli sürüm</string>
+    <string name="more">Diğer</string>
+    <string name="contact_support">Desteğe Başvur</string>
+    <string name="rating">Uygulamayı derecelendirin</string>
+    <string name="more_apps">Daha Fazla Uygulama</string>
+    <string name="share_app">Uygulamayı Paylaş</string>
+    <string name="delete_completed_task">Tamamlanan tüm görevleri silin</string>
+    <string name="hide_completed_task">Tamamlanan görevleri gizle</string>
+    <string name="settings">Ayarlar</string>
+    <string name="sorting_option">Sıralama Seçeneği</string>
+    <string name="sort_by_name">Ada Göre Sırala</string>
+    <string name="sort_by_creation_date">Oluşturma tarihine göre sırala</string>
+    <string name="search">Ara</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="delete">Sil</string>
+    <string name="add_date_time">Tarih/saat ekle</string>
+    <string name="reminder">Hatırlatıcı</string>
+    <string name="add_task_by_speak">Konuşarak görev ekleyin</string>
+    <string name="save">Kaydet</string>
+    <string name="overdue">Gecikti</string>
+
+    <string name="mark_as_completed">Tamamlandı olarak işaretle</string>
+    <string name="new_task">Yeni görev</string>
+    <string name="create_new_sub_task">Yeni alt görev eklemek için burayı tıklayın</string>
+    <string name="create_new_task">Yeni görev eklemek için burayı tıklayın</string>
+    <string name="task_deleted">Görev silindi</string>
+    <string name="undo">GERİ AL</string>
+    <string name="cancel">İptal</string>
+    <string name="confirm_deletion">Silme işlemini onaylayın</string>
+    <string name="delete_all_task">Tüm görevleri silmek istiyor musunuz?</string>
+    <string name="notify_delete">Görevler başarıyla silindi</string>
+    <string name="please_select_task">Lütfen bir görev seçin</string>
+    <string name="search_task">Arama Görevi</string>
+    <string name="speech_not_support">Cihazınız konuşma girişi için desteklenmiyor</string>
+    <string name="search_subtask">Alt görevi ara</string>
+    <string name="share">Paylaş</string>
+    <string name="delete_task">Silmek istiyor musunuz?</string>
+    <string name="empty_task">Görev Boş</string>
+    <string name="set_time">ZAMAN AYARLA</string>
+    <string name="cancel_reminder">Hatırlatıcı iptal edildi!</string>
+
+    <string name="progress_setting">Tek tek görevin ilerleme durumunu göster</string>
+    <string name="reminder_setting">Bireysel görevin hatırlatıcısını göster</string>
+    <string name="font_size">Yazı tipi boyutu</string>
+    <string name="enable">Etkinleştir</string>
+    <string name="disable">Devre dışı bırak</string>
+
+    <string name="subtask_of_task">Показать подзадачи отдельной задачи</string>
+    <string name="grid_view">Сетка</string>
+    <string name="list_view">Список</string>
+    <string name="theme">Tema</string>
+    <string name="pm_format">ös</string>
+    <string name="language">Dil</string>
+    <string name="copy_text">kopyalamak</string>
+    <string name="something_went_wrong">bir şeyler ters gitti!</string>
+    <string name="share_by">Paylaş:</string>
+    <string name="text_copied">%s kopyalandı</string>
+    <string name="write_suggestions">Lütfen önerilerinizi veya sorunlarınızı yazın</string>
+
+    <string name="very_small">Çok Küçük</string>
+    <string name="medium_small">Orta Küçük</string>
+    <string name="small">Küçük</string>
+    <string name="medium">Orta</string>
+    <string name="large">Büyük</string>
+    <string name="huge">Büyük</string>
+    <string name="follow_system">Sistemi Takip Et</string>
+    <string name="light">Işık</string>
+    <string name="dark">Koyu</string>
+    <string name="permission_denied">İzin reddedildi</string>
+    <string name="open_settings">Ayarları aç</string>
+    <string name="no_application_found">Uygulama bulunamadı</string>
+    <string name="user_cancelled_the_operation">Kullanıcı işlemi iptal etti</string>
+    <string name="downloading_start">İndirme başlangıcı</string>
+    <string name="update_failed">Güncelleme başarısız oldu</string>
+    <string name="restart">Yeniden Başlat</string>
+    <string name="new_app_ready">Yeni uygulama hazır</string>
+    <string name="task_selected" formatted="false">%d/%d seçildi</string>
+    <string name="or">VEYA</string>
+    <string name="select_task">Görevi seçin</string>
+    <string name="active">Aktif</string>
+    <string name="done">Bitti</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="personal">Kişisel</string>
+    <string name="school">Okul</string>
+    <string name="work">İş</string>
+    <string name="other">Diğer</string>
+    <string name="back">Geri</string>
+    <string name="feedback_from_app">%s, %s\'den geri bildirim</string>
+    <string name="add_task_or_subtask">Yeni görev veya alt görev ekle</string>
+
+    <string name="name">Ad ⬇</string>
+    <string name="name_desc">Ad ⬆</string>
+    <string name="date" >Tarih ⬇</string>
+    <string name="date_desc">Tarih ⬆</string>
+    <string name="category">Kategori ⬇</string>
+    <string name="category_desc">Kategori ⬆</string>
+    <string name="start_date">Başlangıç tarihi</string>
+    <string name="end_date">Bitiş tarihi</string>
+    <string name="select_project_end_date">Proje bitiş tarihini seçin</string>
+    <string name="select_project_start_date">Proje başlangıç tarihini seçin</string>
+    <string name="no_notification">Henüz bildirim yok</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="sort_by_old_to_new">Eskiden yeniye</string>
+    <string name="pending">Bekleyen görevler <b>%d</b></string>
+    <string name="completed">Tamamlanan görevler <b>%d</b></string>
+
+    <string name="overview">Genel Bakış</string>
+    <string name="good_morning">Merhaba canım</string>
+    <string name="notification_daily_desc">Görevleriniz beklemede, onları hızlı bir şekilde bitirmeniz gerekiyor</string>
+    <string name="show_voice_to_add_task_option">Görev seçeneği eklemek için sesi göster</string>
+    <string name="task_not_completed_yet">Görev henüz tamamlanmadı</string>
+    <string name="general">Genel</string>
+    <string name="category_txt">Kategori</string>
+    <string name="paste">Yapıştır</string>
+    <string name="delete_all_notifications">Tüm bildirimleri sil</string>
+    <string name="confirm_notification_msg">Tüm bildirimleri silmek istiyor musunuz?</string>
+    <string name="sort_expand_collapse_button">Sıralamayı genişlet/daralt düğmesi</string>
+    <string name="layout_view_change_button">Yerleşim görünümünü değiştirme düğmesi</string>
+    <string name="show_copy">Kopyalama simgesini bireysel görevde göster</string>
+    <string name="visit_github">GitHub\'ı ziyaret edin</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="prompt_info_title">Görev Uygulaması Kimlik Doğrulaması</string>
+    <string name="prompt_info_subtitle">Parmak izi kimlik doğrulamasıyla giriş yapın</string>
+    <string name="app_lock">Uygulama kilidi</string>
+    <string name="restore_data">Verileri Geri Yükle</string>
+    <string name="backup_data">Verileri Yedekle</string>
+    <string name="security_and_data">Güvenlik ve Veriler</string>
+    <string name="follow_instagram">Beni Instagram\'da takip et</string>
+    <string name="donate">Beni destekleyin</string>
+    <string name="donate_me_desc">Uygulamamı beğendiyseniz ve bu uygulamayı geliştirmemde bana destek olmak istiyorsanız lütfen biraz para bağışlayın</string>
+</resources>

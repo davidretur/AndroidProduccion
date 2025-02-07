@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कार्य</string>
+    <string name="task_progress">%d/%d कार्य पूर्ण</string>
+    <string name="subtask_progress">%d/%d सबटास्क पूरे हो गए हैं</string>
+    <string name="task_completed">कार्य पूरा हुआ</string>
+    <string name="add_task">कार्य जोड़ें</string>
+    <string name="enter_title">शीर्षक दर्ज करें</string>
+    <string name="important_task">महत्वपूर्ण कार्य</string>
+    <string name="edit_delete_task">कार्य संपादित करें/हटाएं</string>
+    <string name="create_task">कार्य बनाएं</string>
+    <!-- वरीयता शीर्षक -->
+    <string name="messages_header">संदेश</string>
+    <string name="sync_header">सिंक</string>
+
+    <!-- संदेश वरीयताएँ -->
+    <string name="signature_title">आपका हस्ताक्षर</string>
+    <string name="reply_title">डिफ़ॉल्ट उत्तर कार्रवाई</string>
+
+    <!-- सिंक वरीयताएँ -->
+    <string name="sync_title">ईमेल को समय-समय पर सिंक करें</string>
+    <string name="attachment_title">आने वाले अटैचमेंट डाउनलोड करें</string>
+    <string name="attachment_summary_on">आने वाले ईमेल के लिए अटैचमेंट अपने आप डाउनलोड करें</string>
+    <string name="attachment_summary_off">मैन्युअल रूप से अनुरोध किए जाने पर ही अटैचमेंट डाउनलोड करें</string>
+
+    <string name="feedback_text">फ़ीडबैक भेजें, अगर ऐप क्रैश हो रहा है \'ऐप डेटा साफ़ करें\' या इसे एक ईमेल भेजें</string>
+    <string name="rating_text">इस ऐप को पसंद करते हैं? हमें Google Play Store में बताएं कि हम इसे और बेहतर कैसे बना सकते हैं</string>
+    <string name="more_app_text">अन्य ऐप्स देखें</string>
+    <string name="share_text">एप्लिकेशन को अपने मित्रों और परिवार के साथ साझा करें</string>
+    <string name="developer">डेवलपर</string>
+    <string name="developer_name">कौशल वसावा</string>
+    <string name="about">के बारे में</string>
+    <string name="current_version">वर्तमान संस्करण</string>
+    <string name="more">अधिक</string>
+    <string name="contact_support">सहायता से संपर्क करें</string>
+    <string name="rating">एप्लिकेशन को रेट करें</string>
+    <string name="more_apps">और ऐप्स</string>
+    <string name="share_app">शेयर ऐप</string>
+    <string name="delete_completed_task">सभी पूर्ण किए गए कार्यों को हटाएं</string>
+    <string name="hide_completed_task">पूर्ण कार्यों को छुपाएं</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="sorting_option">सॉर्टिंग विकल्प</string>
+    <string name="sort_by_name">नाम के अनुसार क्रमित करें</string>
+    <string name="sort_by_creation_date">निर्माण तिथि के अनुसार क्रमित करें</string>
+    <string name="search">खोज</string>
+    <string name="select_all">सभी का चयन करें</string>
+    <string name="delete"> हटाएं</string>
+    <string name="add_date_time">तिथि/समय जोड़ें</string>
+    <string name="reminder">अनुस्मारक</string>
+    <string name="add_task_by_speak">बोलकर कार्य जोड़ें</string>
+    <string name="save">सहेजें</string>
+    <string name="overdue">अतिदेय</string>
+
+    <string name="mark_as_completed">पूर्ण के रूप में चिह्नित करें</string>
+    <string name="new_task">नया कार्य</string>
+    <string name="create_new_sub_task">नया उप-कार्य जोड़ने के लिए यहां क्लिक करें</string>
+    <string name="create_new_task">नया कार्य जोड़ने के लिए यहां क्लिक करें</string>
+    <string name="task_deleted">कार्य हटाया गया</string>
+    <string name="undo"> पूर्ववत करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="confirm_deletion">हटाने की पुष्टि करें</string>
+    <string name="delete_all_task">क्या आप सभी कार्यों को हटाना चाहते हैं?</string>
+    <string name="notify_delete">कार्य सफलतापूर्वक हटा दिए गए हैं</string>
+    <string name="please_select_task">कृपया कोई कार्य चुनें</string>
+    <string name="search_task">कार्य खोजें</string>
+    <string name="speech_not_support">आपका उपकरण वाक् इनपुट के लिए समर्थित नहीं है</string>
+    <string name="search_subtask">उप-कार्य खोजें</string>
+    <string name="share">साझा करें</string>
+    <string name="delete_task">क्या आप हटाना चाहते हैं?</string>
+    <string name="empty_task">कार्य खाली है</string>
+    <string name="set_time"> समय निर्धारित करें </string>
+    <string name="cancel_reminder">रिमाइंडर रद्द कर दिया गया!</string>
+
+    <string name="progress_setting">व्यक्तिगत कार्य की कार्य प्रगति दिखाएं</string>
+    <string name="reminder_setting">व्यक्तिगत कार्य का रिमाइंडर दिखाएं</string>
+    <string name="font_size">फ़ॉन्ट आकार</string>
+    <string name="enable">सक्षम करें</string>
+    <string name="disable">अक्षम करें</string>
+
+    <string name="subtask_of_task">व्यक्तिगत कार्य के उप-कार्य दिखाएं</string>
+    <string name="grid_view">ग्रिड दृश्य</string>
+    <string name="list_view">सूची दृश्य</string>
+    <string name="theme">थीम</string>
+    <string name="pm_format">pm</string>
+    <string name="language">भाषा</string>
+    <string name="copy_text">प्रतिलिपि</string>
+    <string name="something_went_wrong">कुछ गलत हो गया!</string>
+    <string name="share_by">साझा करें</string>
+    <string name="text_copied">%s कॉपी किया गया</string>
+    <string name="write_suggestions">कृपया अपने सुझाव या मुद्दे लिखें</string>
+
+    <string name="very_small">बहुत छोटा</string>
+    <string name="medium_small">मध्यम छोटा</string>
+    <string name="small">छोटा</string>
+    <string name="medium">मध्यम</string>
+    <string name="large">बड़ा</string>
+    <string name="huge">विशाल</string>
+    <string name="follow_system">सिस्टम का पालन करें</string>
+    <string name="light">लाइट</string>
+    <string name="dark">डार्क</string>
+    <string name="permission_denied">अनुमति अस्वीकृत</string>
+    <string name="open_settings">सेटिंग खोलें</string>
+    <string name="no_application_found">आवेदन नहीं मिला</string>
+    <string name="user_cancelled_the_operation">उपयोगकर्ता ने कार्रवाई रद्द कर दी</string>
+    <string name="downloading_start">डाउनलोडिंग शुरू हो रही है</string>
+    <string name="update_failed">अपडेट विफल</string>
+    <string name="restart">पुनरारंभ करें</string>
+    <string name="new_app_ready">नया ऐप तैयार है</string>
+    <string name="task_selected" formatted="false">%d/%d चयनित</string>
+    <string name="or">या</string>
+    <string name="select_task">कार्य चुनें</string>
+    <string name="active">सक्रिय</string>
+    <string name="done"> हो गया</string>
+    <string name="home">होम</string>
+    <string name="personal"> व्यक्तिगत </string>
+    <string name="school"> स्कूल </string>
+    <string name="work">वर्क</string>
+    <string name="other">अन्य</string>
+    <string name="back">वापस</string>
+    <string name="feedback_from_app">%s, %s से प्रतिक्रिया</string>
+    <string name="add_task_or_subtask">नया कार्य या उपकार्य जोड़ें</string>
+
+    <string name="name">नाम ⬇</string>
+    <string name="name_desc">नाम ⬆</string>
+    <string name="date">दिनांक ⬇</string>
+    <string name="date_desc">दिनांक ⬆</string>
+    <string name="category">श्रेणी ⬇</string>
+    <string name="category_desc">श्रेणी ⬆</string>
+    <string name="start_date">प्रारंभ तिथि</string>
+    <string name="end_date">अंतिम तिथि</string>
+    <string name="select_project_end_date">प्रोजेक्ट समाप्ति तिथि चुनें</string>
+    <string name="select_project_start_date">प्रोजेक्ट प्रारंभ तिथि चुनें</string>
+    <string name="no_notification">अभी तक कोई सूचना नहीं</string>
+    <string name="notifications">नोटिफिकेशन</string>
+    <string name="sort_by_old_to_new">पुराने से नया</string>
+    <string name="pending">लंबित कार्य <b>%d</b></string>
+    <string name="completed">पूर्ण कार्य <b>%d</b></string>
+    <string name="overview">अवलोकन</string>
+    <string name="good_morning">नमस्कार प्रिय</string>
+    <string name="notification_daily_desc">आपके कार्य लंबित हैं, आपको उन्हें जल्दी से पूरा करना होगा</string>
+    <string name='show_voice_to_add_task_option'>कार्य विकल्प जोड़ने के लिए आवाज दिखाएं</string>
+    <string name='task_not_completed_yet'>कार्य अभी तक पूरा नहीं हुआ है</string>
+    <string name="general">सामान्य</string>
+    <string name="category_txt">श्रेणी</string>
+    <string name="paste">पेस्ट करें</string>
+    <string name="delete_all_notifications">सभी सूचनाएं हटाएं</string>
+    <string name="confirm_notification_msg">क्या आप सभी सूचनाएं हटाना चाहते हैं?</string>
+    <string name="sort_expand_collapse_button">विस्तारित करें/संक्षिप्त करें बटन</string>
+    <string name="layout_view_change_button">लेआउट दृश्य परिवर्तन बटन</string>
+    <string name="show_copy">व्यक्तिगत कार्य पर कॉपी आइकन दिखाएं</string>
+    <string name="visit_github">GitHub पर जाएं</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name='prompt_info_title'>कार्य ऐप प्रमाणीकरण</string>
+    <string name='prompt_info_subtitle'>फ़िंगरप्रिंट प्रमाणीकरण के साथ लॉगिन करें</string>
+    <string name='app_lock'>ऐप लॉक</string>
+    <string name='restore_data'>डेटा पुनर्स्थापित करें</string>
+    <string name='backup_data'>बैकअप डेटा</string>
+    <string name='security_and_data'>सुरक्षा और डेटा</string>
+    <string name="follow_instagram">मुझे इंस्टाग्राम पर फॉलो करें</string>
+    <string name='donate'>मेरा समर्थन करें</string>
+    <string name = "donate_me_desc">यदि आपको मेरा ऐप पसंद है और आप इस ऐप को बेहतर बनाने में मेरा समर्थन करना चाहते हैं तो कृपया कुछ पैसे दान करें</string>
+</resources>

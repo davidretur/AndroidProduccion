@@ -107,7 +107,7 @@ fun AddExpense(
                             viewModel.onEvent(AddExpenseUiEvent.OnBackPressed)
                         })
                 ExpenseTextView(
-                    text = "Add ${if (isIncome) "Income" else "Expense"}",
+                    text = "Agregar ${if (isIncome) "Ingreso" else "Gasto"}",
                     style = Typography.titleLarge,
                     color = Color.White,
                     modifier = Modifier
@@ -129,7 +129,7 @@ fun AddExpense(
                         onDismissRequest = { menuExpanded.value = false }
                     ) {
                         DropdownMenuItem(
-                            text = { ExpenseTextView(text = "Profile") },
+                            text = { ExpenseTextView(text = "Perfil") },
                             onClick = {
                                 menuExpanded.value = false
                                 // Navigate to profile screen
@@ -137,7 +137,7 @@ fun AddExpense(
                             }
                         )
                         DropdownMenuItem(
-                            text = { ExpenseTextView(text = "Settings") },
+                            text = { ExpenseTextView(text = "Opciones") },
                             onClick = {
                                 menuExpanded.value = false
                                 // Navigate to settings screen
@@ -179,7 +179,7 @@ fun DataForm(
         mutableStateOf(false)
     }
     val type = remember {
-        mutableStateOf(if (isIncome) "Income" else "Expense")
+        mutableStateOf(if (isIncome) "Ingreso" else "Gasto")
     }
     Column(
         modifier = modifier
@@ -193,7 +193,7 @@ fun DataForm(
             .padding(16.dp)
             .verticalScroll(rememberScrollState())
     ) {
-        TitleComponent(title = "name")
+        TitleComponent(title = "Nombre")
         ExpenseDropDown(
             if (isIncome) listOf(
                 "Paypal",
@@ -227,7 +227,7 @@ fun DataForm(
                 name.value = it
             })
         Spacer(modifier = Modifier.size(24.dp))
-        TitleComponent("amount")
+        TitleComponent("Cantidad")
         OutlinedTextField(
             value = amount.value,
             onValueChange = { newValue ->

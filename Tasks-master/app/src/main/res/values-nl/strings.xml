@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taken</string>
+    <string name="task_progress">%d/%d taken voltooid</string>
+    <string name="subtask_progress">%d/%d subtaken voltooid</string>
+    <string name="task_completed">Taak voltooid</string>
+    <string name="add_task">Taak toevoegen</string>
+    <string name="enter_title">Voer titel in</string>
+    <string name="important_task">Belangrijke taak</string>
+    <string name="edit_delete_task">Taak bewerken/verwijderen</string>
+    <string name="create_task">Taak maken</string>
+    <!-- Voorkeurstitels -->
+    <string name="messages_header">Berichten</string>
+    <string name="sync_header">Synchroniseren</string>
+
+    <!-- Berichtenvoorkeuren -->
+    <string name="signature_title">Uw handtekening</string>
+    <string name="reply_title">Standaard antwoordactie</string>
+
+    <!-- Synchronisatievoorkeuren -->
+    <string name="sync_title">E-mail periodiek synchroniseren</string>
+    <string name="attachment_title">Inkomende bijlagen downloaden</string>
+    <string name="attachment_summary_on">Automatisch bijlagen downloaden voor inkomende e-mails
+    </string>
+    <string name="attachment_summary_off">Alleen bijlagen downloaden wanneer handmatig gevraagd</string>
+
+
+    <string name="feedback_text">Feedback sturen, Als de app blijft crashen \'Clear app data\' of stuur hem een ​​e-mail</string>
+    <string name="rating_text">Hou je van deze app? Laat ons in de Google Play Store weten hoe we het nog beter kunnen maken</string>
+    <string name="more_app_text">Bekijk andere apps</string>
+    <string name="share_text">Deel de app met je vrienden en familie</string>
+    <string name="developer">Ontwikkelaar</string>
+    <string name="developer_name">Kaushal Vasava</string>
+    <string name="about">Over</string>
+    <string name="current_version">Huidige versie</string>
+    <string name="more">Meer</string>
+    <string name="contact_support">Contact opnemen met ondersteuning</string>
+    <string name="rating">Beoordeel de app</string>
+    <string name="more_apps">Meer apps</string>
+    <string name="share_app">App delen</string>
+    <string name="delete_completed_task">Verwijder alle voltooide taken</string>
+    <string name="hide_completed_task">Verberg voltooide taken</string>
+    <string name="settings">Instellingen</string>
+    <string name="sorting_option">Sorteeroptie</string>
+    <string name="sort_by_name">Sorteren op naam</string>
+    <string name="sort_by_creation_date">Sorteren op aanmaakdatum</string>
+    <string name="search">Zoeken</string>
+    <string name="select_all">Alles selecteren</string>
+    <string name="delete">Verwijderen</string>
+    <string name="add_date_time">Datum/tijd toevoegen</string>
+    <string name="reminder">Herinnering</string>
+    <string name="add_task_by_speak">Taak toevoegen door te spreken</string>
+    <string name="save">Opslaan</string>
+    <string name="overdue">Te laat</string>
+
+    <string name="mark_as_completed">Markeer als voltooid</string>
+    <string name="new_task">Nieuwe taak</string>
+    <string name="create_new_sub_task">Klik hier om een ​​nieuwe subtaak toe te voegen</string>
+    <string name="create_new_task">Klik hier om een ​​nieuwe taak toe te voegen</string>
+    <string name="task_deleted">Taak verwijderd</string>
+    <string name="undo">UNDOEN</string>
+    <string name="cancel">Annuleren</string>
+    <string name="confirm_deletion">Verwijdering bevestigen</string>
+    <string name="delete_all_task">Wilt u alle taken verwijderen?</string>
+    <string name="notify_delete">Taken zijn succesvol verwijderd</string>
+    <string name="please_select_task">Selecteer een taak</string>
+    <string name="search_task">Zoektaak</string>
+    <string name="speech_not_support">Uw apparaat wordt niet ondersteund voor spraakinvoer</string>
+    <string name="search_subtask">Subtaak zoeken</string>
+    <string name="share">Delen</string>
+    <string name="delete_task">Wilt u verwijderen?</string>
+    <string name="empty_task">Taak is leeg</string>
+    <string name="set_time">STEL TIJD IN</string>
+    <string name="cancel_reminder">Herinnering geannuleerd!</string>
+    <string name="progress_setting">Toon taakvoortgang van individuele taak</string>
+    <string name="reminder_setting">Toon herinnering aan individuele taak</string>
+    <string name="font_size">Lettergrootte</string>
+    <string name="enable">Inschakelen</string>
+    <string name="disable">Uitschakelen</string>
+
+    <string name="subtask_of_task">Toon subtaken van individuele taken</string>
+    <string name="grid_view">Rasterweergave</string>
+    <string name="list_view">Lijstweergave</string>
+    <string name="theme">Thema</string>
+    <string name="pm_format">p.m.</string>
+    <string name="language">Taal</string>
+    <string name="copy_text">kopiëren</string>
+    <string name="something_went_wrong">er ging iets mis!</string>
+    <string name="share_by">Delen door</string>
+    <string name="text_copied">%s gekopieerd</string>
+    <string name="write_suggestions">Schrijf je suggesties of problemen op</string>
+
+    <string name="very_small">Heel klein</string>
+    <string name="medium_small">Middelgroot</string>
+    <string name="small">Klein</string>
+    <string name="medium">Gemiddeld</string>
+    <string name="large">Groot</string>
+    <string name="huge">Groot</string>
+    <string name="follow_system">Systeem volgen</string>
+    <string name="light">Licht</string>
+    <string name="dark">Donker</string>
+    <string name="permission_denied">Toestemming geweigerd</string>
+    <string name="open_settings">Instellingen openen</string>
+    <string name="no_application_found">Applicatie niet gevonden</string>
+    <string name="user_cancelled_the_operation">Gebruiker heeft de bewerking geannuleerd</string>
+    <string name="downloading_start">Downloaden start</string>
+    <string name="update_failed">Update mislukt</string>
+    <string name="restart">Herstart</string>
+    <string name="new_app_ready">Nieuwe app is klaar</string>
+    <string name="task_selected" formatted="false">%d/%d geselecteerd</string>
+    <string name="or">OF</string>
+    <string name="select_task">Selecteer taak</string>
+    <string name="active">Actief</string>
+    <string name="done">Klaar</string>
+    <string name="home">Thuis</string>
+    <string name="personal">Persoonlijk</string>
+    <string name="school">School</string>
+    <string name="work">Werk</string>
+    <string name="other">Andere</string>
+    <string name="back">Terug</string>
+    <string name="feedback_from_app">Feedback van %s, %s</string>
+    <string name="add_task_or_subtask">Nieuwe taak of subtaak toevoegen</string>
+
+    <string name="name">Naam ⬇</string>
+    <string name="name_desc">Naam ⬆</string>
+    <string name="date" >Datum ⬇</string>
+    <string name="date_desc">Datum ⬆</string>
+    <string name="category">Categorie ⬇</string>
+    <string name="category_desc">Categorie ⬆</string>
+    <string name="start_date">Startdatum</string>
+    <string name="end_date">Einddatum</string>
+    <string name="select_project_end_date">Selecteer de einddatum van het project</string>
+    <string name="select_project_start_date">Startdatum project selecteren</string>
+    <string name="no_notification">Nog geen meldingen</string>
+    <string name="notifications">Meldingen</string>
+    <string name="sort_by_old_to_new">Oud naar nieuw</string>
+    <string name="pending">Taken in behandeling <b>%d</b></string>
+    <string name="completed">Voltooide taken <b>%d</b></string>
+
+    <string name="overview">Overzicht</string>
+    <string name="good_morning">Hallo schat</string>
+    <string name="notification_daily_desc">Je taken zijn in behandeling, je moet ze snel afmaken</string>
+    <string name="show_voice_to_add_task_option">Toon stem om taakoptie toe te voegen</string>
+    <string name="task_not_completed_yet">De taak is nog niet voltooid</string>
+    <string name="general">Algemeen</string>
+    <string name="category_txt">Categorie</string>
+    <string name="paste">Plakken</string>
+    <string name="delete_all_notifications">Verwijder alle meldingen</string>
+    <string name="confirm_notification_msg">Wil je alle meldingen verwijderen?</string>
+    <string name="sort_expand_collapse_button">Sorteer knop uitvouwen/samenvouwen</string>
+    <string name="layout_view_change_button">Knop voor het wijzigen van de lay-outweergave</string>
+    <string name="show_copy">Kopieerpictogram weergeven voor individuele taak</string>
+    <string name="visit_github">Bezoek GitHub</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="prompt_info_title">Taak-app-authenticatie</string>
+    <string name="prompt_info_subtitle">Log in met vingerafdrukauthenticatie</string>
+    <string name="app_lock">App-vergrendeling</string>
+    <string name="restore_data">Gegevens herstellen</string>
+    <string name="backup_data">Back-upgegevens</string>
+    <string name="security_and_data">Beveiliging en gegevens</string>
+    <string name="follow_instagram">Volg mij op Instagram</string>
+    <string name="donate">Steun mij</string>
+    <string name="donate_me_desc">Als je mijn app leuk vindt en me wilt steunen bij het verbeteren van deze app, doneer dan alsjeblieft wat geld</string>
+</resources>
